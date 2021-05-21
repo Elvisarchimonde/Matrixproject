@@ -1,0 +1,36 @@
+body
+{
+    background-color: #FBF9F1;
+}
+div
+{
+    width: 30%;
+    height: 15rem;
+    background-color: rgb(28, 240, 28);
+    text-align: center;
+    margin-left: 33%;
+    margin-top: 7%;
+}
+i
+{
+    font-size:5rem;
+    margin-top: 8%;
+}
+p
+{
+    text-align: center;
+    color: black;
+    margin-top: 5%;
+}
+.back
+{
+    width: 10%;
+    height: 2rem;
+    margin-left: 43%;
+    margin-top: 5%;
+}
+a
+{
+    color: black;
+    text-decoration-line: none;
+}
